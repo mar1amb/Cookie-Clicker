@@ -1,0 +1,93 @@
+body {
+    
+    background-image: url("https://img.freepik.com/free-vector/cookie-background-cafe-wallpaper-vector_53876-144624.jpg?w=2000");
+    background-size: 110%;
+}
+
+.firstP {
+    text-align: center;
+    font-size: 35px; 
+}
+
+.secondP {
+    text-align: center;
+    font-size: 35px;
+    display: flex;
+}
+
+.main {
+    width: 70%;
+    border: 15px ridge grey;
+}
+
+.achievements {
+    width: 30%;
+    border: 10px ridge grey;
+}
+
+.de {
+	background-color: #FFFFE0;
+}
+
+/* Headers */
+
+.h1 {
+    font-size: 70px;
+    margin-top: 50px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Indie Flower', cursive;
+}
+
+h2 {
+    font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+    font-family: 'Rubik Gemstones', cursive;
+    border: 7px dotted black;
+    border-radius: 30px;
+    font-size: 50px;
+}
+
+.box {
+    border: black outset 2px;
+    border-radius: 45px;
+    width: 400px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    position: absolute;
+    top: 50%;
+    left: 48%;
+    margin-top: -110px;
+    margin-left: -170px;
+    background-color: white;
+}
+
+p {
+    font-family: 'Rubik Gemstones', cursive;
+}
+
+input {
+    font-size: 20px;
+}
+
+button {
+    font-size: 20px;
+}
+
+.achievements {
+	background-color: #FFE4E1;
+    font-family: 'Rubik Gemstones', cursive;
+    font-size: 40px;
+}
+
+.de{
+	border: 3px solid black;
+    border-radius: 20px;
+    font-size: 50px;
+    font-family: 'Patrick Hand', cursive;
+}
